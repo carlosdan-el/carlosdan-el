@@ -11,8 +11,6 @@
 - 📫 How to reach me: Links above 👆🏻
 - ⚡ Fun fact: A coffee bean is a seed of the coffee plant, and is the source for coffee. It is the pit inside the red or purple fruit often referred to as a cherry. Even though they are seeds, they are referred to as 'beans' because of their resemblance to true beans
 
-<br>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/>
