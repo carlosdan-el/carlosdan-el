@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on personal applications
 - 🌱 I’m currently learning C#, Azure and React JS
 - 🤔 I’m looking for help with C#, Azure and Javascript
-- 📫 How to reach me: Links above 👆🏻
 - ⚡ Fun fact: A coffee bean is a seed of the coffee plant, and is the source for coffee. It is the pit inside the red or purple fruit often referred to as a cherry. Even though they are seeds, they are referred to as 'beans' because of their resemblance to true beans
 
 ### Languages and Tools:
