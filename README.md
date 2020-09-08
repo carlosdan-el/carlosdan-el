@@ -1,7 +1,8 @@
 # Carlos Daniel
 
 [![Instagram Badge](https://img.shields.io/badge/-Carlos%20Daniel-4b7bec?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosdan.el/)](https://www.instagram.com/carlosdan.el/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Daniel-4b7bec?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosdan-el/)](https://www.linkedin.com/in/carlosdan-el/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Daniel-4b7bec?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosdan-el/)](https://www.linkedin.com/in/carlosdan-el/)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=carlosdan-el.visitor-badge)](https://github.com/carlosdan-el)
 
 <br>
 
