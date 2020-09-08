@@ -11,6 +11,10 @@
 - 🤔 I’m looking for help with C#, Azure and Javascript
 - ⚡ Fun fact: A coffee bean is a seed of the coffee plant, and is the source for coffee. It is the pit inside the red or purple fruit often referred to as a cherry. Even though they are seeds, they are referred to as 'beans' because of their resemblance to true beans
 
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosdan-el&count_private=true&include_all_commits=true&show_icons=true)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/>
