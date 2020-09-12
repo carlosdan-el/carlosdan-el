@@ -13,8 +13,6 @@
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carlosdan-el&count_private=true&include_all_commits=true&show_icons=true)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/>
