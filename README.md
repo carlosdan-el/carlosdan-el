@@ -16,8 +16,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/>
-<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"/>
-<img align="left" alt="GitHub" width="28px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg"/>
+<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/>
 <img align="left" alt="HTML5" width="20px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"/>
 <img align="left" alt="CSS3" width="20px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"/>
 <img align="left" alt="JavaScript" width="28px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"/>
