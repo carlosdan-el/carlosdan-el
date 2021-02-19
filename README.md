@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Softtek](https://www.softtek.com/) and personal applications;
+- 🔭 I’m currently working in [Softtek](https://www.softtek.com/) and personal applications;
 - 🌱 I’m learning C#;
 - 🤔 I’m looking for help with C#, Azure and .net core;
 - ⚡ Fun fact: A coffee bean is a seed of the coffee plant, and is the source for coffee. It is the pit inside the red or purple fruit often referred to as a cherry. Even though they are seeds, they are referred to as 'beans' because of their resemblance to true beans;
